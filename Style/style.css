@@ -1,0 +1,60 @@
+html {
+    background-image: url(https://live.staticflickr.com/2704/4444241595_2383abdbaa_b.jpg);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    background-size: 500%;
+
+}
+
+h1 {
+    color: rgb(26, 2, 2);
+    text-shadow: 20px;
+}
+
+.h2_short_info {
+    color: rgb(20, 1, 1);
+    background-color: rgb(60, 158, 161);
+}
+
+.h3_web {
+    color: rgb(26, 2, 2);
+    text-shadow: 3px 3px 3px rgb(228, 208, 167);
+}
+
+ul,
+ol {
+    text-align: left;
+}
+
+.text {
+    text-align: start;
+
+}
+
+a {
+    color: rgb(34, 46, 2);
+}
+
+.button_style {
+    color: rgb(127, 175, 39);
+    box-shadow: 10px;
+    padding: 10px;
+    margin: 10px;
+
+}
+
+.text_style {
+    color: rgb(189, 213, 235);
+    text-shadow: 5px 5px 5px rgb(30, 6, 75);
+}
+
+.video {
+    width: 560px;
+    height: 315px;
+}
+.info_border{
+    border: 1px solid rgb(36, 193, 221);
+    padding: 20px;
+    background-color: rgb(60, 158, 161);
+    border-radius: 10px;
+}
